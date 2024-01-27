@@ -1,4 +1,4 @@
-# PyTorch Tips
+# 🔥 PyTorch Tips 🔥
 
 Welcome to this repository! Here, you'll find a collection of tips and tricks that will help you work more effectively with PyTorch.
 
